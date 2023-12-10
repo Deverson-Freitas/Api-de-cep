@@ -1,6 +1,6 @@
 # Título do Projeto
 
-Api para consultar um cep específico e guardá los no banco de dados.
+Api para consultar um cep específico e guardá-los no banco de dados.
 
 ## Visão Geral
 
