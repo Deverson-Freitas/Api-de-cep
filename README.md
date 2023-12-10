@@ -19,7 +19,7 @@ Clone o repositório, e instale as dependências.
 ### Configuração
 
 1. Clone o repositório: `git clone https://github.com/Deverson-Freitas/Api-de-cep.git`
-2. Navegue até o diretório: `cd nome-do-projeto`
+2. Navegue até o diretório: `cd Api-de-cep`
 3. Instale as dependências: `npm install` ou `yarn install`
 
 ### Uso
